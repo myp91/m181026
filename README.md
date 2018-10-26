@@ -1,2 +1,3 @@
 # m181026
-test02
+def f1():
+  print('hello world')
